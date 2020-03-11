@@ -14,7 +14,7 @@ class App extends Component{
       <div id='App'>
         <BrowserRouter>        
           <div>
-            <Route exact path="/" component={Splash} />
+            <Route exact path="/Tiffolin" component={Splash} />
             <Navbar />
             <About />
             <Projects />

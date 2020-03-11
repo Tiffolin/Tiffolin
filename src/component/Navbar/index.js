@@ -33,7 +33,7 @@ render() {
 return(
     <div className={this.state.scrolled ? "nav scrolled" : "nav"}>
         <div className="nav_text">
-            <NavLink to = "/"><img id="logo" alt="logo" src={logo}></img></NavLink>
+            <NavLink to = "/Tiffolin"><img id="logo" alt="logo" src={logo}></img></NavLink>
       
                     <a href="mailto:szuchinlin3@gmail.com">
                         <span><img src={email} className="NavSnsImg img-fluid" alt="..."></img></span>
