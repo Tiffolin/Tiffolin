@@ -94,13 +94,13 @@ body{
     position: absolute;
     left:10%;
     top:30%;
-    -webkit-animation: fall 6s linear infinite; 
-            animation: fall 6s linear infinite;
+    -webkit-animation: fall 12s linear infinite; 
+            animation: fall 12s linear infinite;
 }
 .snowfalling3 {
     position: absolute;
     right:10%;
-    top:30%;
+    top:43%;
     -webkit-animation: fall 10s linear infinite; 
             animation: fall 10s linear infinite;
 }
@@ -108,8 +108,8 @@ body{
     position: absolute;
     left:40%;
     top:30%;
-    -webkit-animation: fall 9s linear infinite; 
-            animation: fall 9s linear infinite;
+    -webkit-animation: fall 7s linear infinite; 
+            animation: fall 7s linear infinite;
 }
 .snowfalling5 {
     position: absolute;
@@ -119,8 +119,8 @@ body{
             animation: fall 11s linear infinite;
 }
 .delay1 {
-    -webkit-animation-delay: 10s; 
-      animation-delay: 10s;
+    -webkit-animation-delay: 1s; 
+      animation-delay: 1s;
 }
 .delay2 {
     -webkit-animation-delay: 2s; 
