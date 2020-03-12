@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Tiffolin/precache-manifest.0b0db19f389aef35c5b8426f136656af.js"
+  "/Tiffolin/precache-manifest.ade9c63f2ae93fa481d3c337ac5f0913.js"
 );
 
 self.addEventListener('message', (event) => {
