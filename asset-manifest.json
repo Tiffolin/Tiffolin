@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Tiffolin/static/css/main.e62cea66.chunk.css",
+    "main.css": "/Tiffolin/static/css/main.88d59a12.chunk.css",
     "main.js": "/Tiffolin/static/js/main.2f727312.chunk.js",
     "main.js.map": "/Tiffolin/static/js/main.2f727312.chunk.js.map",
     "runtime-main.js": "/Tiffolin/static/js/runtime-main.e03b2195.js",
@@ -8,9 +8,9 @@
     "static/js/2.2c129280.chunk.js": "/Tiffolin/static/js/2.2c129280.chunk.js",
     "static/js/2.2c129280.chunk.js.map": "/Tiffolin/static/js/2.2c129280.chunk.js.map",
     "index.html": "/Tiffolin/index.html",
-    "precache-manifest.64e6619071dab5ae3db8b2ed043f4056.js": "/Tiffolin/precache-manifest.64e6619071dab5ae3db8b2ed043f4056.js",
+    "precache-manifest.0b0db19f389aef35c5b8426f136656af.js": "/Tiffolin/precache-manifest.0b0db19f389aef35c5b8426f136656af.js",
     "service-worker.js": "/Tiffolin/service-worker.js",
-    "static/css/main.e62cea66.chunk.css.map": "/Tiffolin/static/css/main.e62cea66.chunk.css.map",
+    "static/css/main.88d59a12.chunk.css.map": "/Tiffolin/static/css/main.88d59a12.chunk.css.map",
     "static/js/2.2c129280.chunk.js.LICENSE.txt": "/Tiffolin/static/js/2.2c129280.chunk.js.LICENSE.txt",
     "static/media/Design1.PNG": "/Tiffolin/static/media/Design1.89fb33f2.PNG",
     "static/media/Design2.PNG": "/Tiffolin/static/media/Design2.ca5b564b.PNG",
@@ -38,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.e03b2195.js",
     "static/js/2.2c129280.chunk.js",
-    "static/css/main.e62cea66.chunk.css",
+    "static/css/main.88d59a12.chunk.css",
     "static/js/main.2f727312.chunk.js"
   ]
 }
