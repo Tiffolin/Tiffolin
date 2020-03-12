@@ -423,7 +423,7 @@ body{
   PIXEL XL  =  411 X  823
 /////////////////////////////////////////////////////////*/
 
-@media only screen and (max-width: 1024px) { /*  IPAD PRO  = 1024 x 1366 portrait*/
+@media only screen and (max-width: 1024px) { /*  IPAD PRO landscape*/
     *{
         overflow:auto;
     }
@@ -447,7 +447,7 @@ body{
         text-align:center;
     }
 }
-@media only screen and (max-width: 700px) { /*  IPAD PRO  = 1024 x 1366 portrait*/
+@media only screen and (max-width: 700px) { /* IPAD PORTRAITS & MOBILES*/
     *{
         overflow:auto;
     }
@@ -461,12 +461,9 @@ body{
     .NavSnsImg{
         display:none;
     }
-
-    
     .snowfalling {
         position: absolute;
-        -webkit-animation: fall 10s linear infinite; 
-                animation: fall 10s linear infinite;
+
     }
     .snowfalling1 {
         position: absolute;
@@ -500,22 +497,5 @@ body{
         position: absolute;
         left:25%;
         top:65%;
-        -webkit-animation: fall 11s linear infinite; 
     }    
-    @-webkit-keyframes fall {	
-        0% { opacity:0; transform: translateY(-15vw); }
-        20% { opacity:1; transform: translateY(-9vw); }	
-        80% { opacity:1; transform: translateY(9vw); }	
-        100% { opacity:0; transform: translateY(15vw); }	
-      }
-      @keyframes fall {
-          0% { opacity:0; transform: translateY(-15vw); }	
-         20% { opacity:1; transform: translateY(-9vw); }	
-         80% { opacity:1; transform: translateY(9vw); }	
-        100% { opacity:0; transform: translateY(15vw); }	
-      }
-
-
-
-
 }
