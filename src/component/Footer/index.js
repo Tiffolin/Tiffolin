@@ -11,17 +11,17 @@ function Footer() {
         <div id="footer" className="justify-content-md-center sections">
 
                 <div id="copyright">                
-                    <a href="http://www.tiffolin.com"><div id="developer">© 2020, images & web designed by TiffoLin</div></a>
+                    <a href="https://www.tiffolin.com"><div id="developer">© 2020, images & web designed by TiffoLin</div></a>
                 </div>
                 <p className="footerText">Find me on:</p>
                 <div id="snsContainer">
                     <a href="mailto:szuchinlin3@gmail.com">
                         <span id="instagram"><img src={email} className="snsImg img-fluid" alt="..."></img></span>
                     </a>
-                    <a href="http://github.com/Tiffolin?tab=repositories">
+                    <a href="https://github.com/Tiffolin?tab=repositories">
                         <span id="facebook"><img src={github} className="snsImg img-fluid" alt="..."></img></span>
                     </a>
-                    <a href="http://www.linkedin.com/in/szuchinlin">
+                    <a href="https://www.linkedin.com/in/szuchinlin">
                         <span id="linkedIn"><img src={linkedIn} className="snsImg img-fluid" alt="..."></img></span>
                     </a>
                 </div>            

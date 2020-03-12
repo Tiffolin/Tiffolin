@@ -22,7 +22,7 @@ function Projects() {
 
     {/* Design 5  */}
     <div className="ProjWrapper">  
-        <a href="http://github.com/Tiffolin/Design5">
+        <a href="https://github.com/Tiffolin/Design5">
             <div className="codeLink">  
                 <span>Design 5</span>
                 <span><img src={github} className="icons" alt="..."></img></span>
@@ -30,7 +30,7 @@ function Projects() {
             </div> 
         </a>
                 
-        <a href="http://tiffolin.github.io/Design5/">
+        <a href="https://tiffolin.github.io/Design5/">
             <div className="projectContainer">
                 <div className="topDiv container-fluid"></div>
                 <div className="divUnder row">
@@ -42,7 +42,7 @@ function Projects() {
 
     {/* Design 4  */}
     <div className="ProjWrapper">  
-        <a href="http://github.com/Tiffolin/Design4">
+        <a href="https://github.com/Tiffolin/Design4">
             <div className="codeLink">  
                 <span>Design 4</span>
                 <span><img src={github} className="icons" alt="..."></img></span>
@@ -50,7 +50,7 @@ function Projects() {
             </div> 
         </a>
                 
-        <a href="http://tiffolin.github.io/Design4/">
+        <a href="https://tiffolin.github.io/Design4/">
             <div className="projectContainer">
                 <div className="topDiv container-fluid"></div>
                 <div className="divUnder row">
@@ -61,7 +61,7 @@ function Projects() {
     </div>
     {/* Design 3  */}
     <div className="ProjWrapper">  
-            <a href="http://github.com/Tiffolin/Design3">
+            <a href="https://github.com/Tiffolin/Design3">
                 <div className="codeLink">  
                     <span>Design 3</span>
                     <span><img src={github} className="icons" alt="..."></img></span>
@@ -69,7 +69,7 @@ function Projects() {
                 </div> 
             </a>
                 
-            <a href="http://tiffolin.github.io/Design3/">
+            <a href="https://tiffolin.github.io/Design3/">
                 <div className="projectContainer">
                     <div className="topDiv container-fluid"></div>
                     <div className="divUnder row">
@@ -80,7 +80,7 @@ function Projects() {
     </div>
     {/* Design 2  */}
     <div className="ProjWrapper">  
-            <a href="http://github.com/Tiffolin/Design2">
+            <a href="https://github.com/Tiffolin/Design2">
                 <div className="codeLink">  
                     <span>Design 2</span>
                     <span><img src={github} className="icons" alt="..."></img></span>
@@ -88,7 +88,7 @@ function Projects() {
                 </div> 
             </a>
                 
-            <a href="http://tiffolin.github.io/Design2/">
+            <a href="https://tiffolin.github.io/Design2/">
                 <div className="projectContainer">
                     <div className="topDiv container-fluid"></div>
                     <div className="divUnder row">
@@ -99,7 +99,7 @@ function Projects() {
     </div>
     {/* Design 1  */}
     <div className="ProjWrapper">  
-            <a href="http://github.com/Tiffolin/Design1">
+            <a href="https://github.com/Tiffolin/Design1">
                 <div className="codeLink">  
                      <span>Design 1</span>
                      <span><img src={github} className="icons" alt="..."></img></span>
@@ -107,7 +107,7 @@ function Projects() {
                 </div> 
             </a>
                 
-            <a href="http://tiffolin.github.io/Design1/">
+            <a href="https://tiffolin.github.io/Design1/">
                 <div className="projectContainer">
                     <div className="topDiv container-fluid"></div>
                     <div className="divUnder row">
@@ -121,7 +121,7 @@ function Projects() {
     <Insructions />
     {/* Recipe Recite  */}
     <div className="ProjWrapper">  
-            <a href="http://github.com/Tiffolin/Project-3_Team-2">
+            <a href="https://github.com/Tiffolin/Project-3_Team-2">
                 <div className="codeLink">  
                     <span>Recipe Recite</span>
                     <span><img src={github} className="icons" alt="..."></img></span>
@@ -129,7 +129,7 @@ function Projects() {
                 </div> 
             </a>
                 
-            <a href="http://vast-cliffs-50637.herokuapp.com/">
+            <a href="https://vast-cliffs-50637.herokuapp.com/">
                 <div className="projectContainer">
                     <div className="topDiv container-fluid"></div>
                     <div className="divUnder row">
@@ -140,7 +140,7 @@ function Projects() {
     </div>
     {/* Time to Go  */}
     <div className="ProjWrapper">  
-            <a href="http://github.com/Treudey/time-to-go-toronto">
+            <a href="https://github.com/Treudey/time-to-go-toronto">
                 <div className="codeLink">  
                     <span>Time to Go</span>
                     <span><img src={github} className="icons" alt="..."></img></span>
@@ -148,7 +148,7 @@ function Projects() {
                 </div> 
             </a>
                 
-            <a href="http://limitless-retreat-50315.herokuapp.com/">
+            <a href="https://limitless-retreat-50315.herokuapp.com/">
                 <div className="projectContainer">
                     <div className="topDiv container-fluid"></div>
                     <div className="divUnder row">
@@ -178,7 +178,7 @@ function Projects() {
     </div> */}
     {/* Test your memory (Click Game)  */}
     <div className="ProjWrapper">  
-            <a href="http://github.com/Tiffolin/Test-your-memory-Click-Game-">
+            <a href="https://github.com/Tiffolin/Test-your-memory-Click-Game-">
                 <div className="codeLink">  
                     <span>BT21 Click Game</span>
                     <span><img src={github} className="icons" alt="..."></img></span>
