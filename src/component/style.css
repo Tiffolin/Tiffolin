@@ -462,4 +462,60 @@ body{
         display:none;
     }
 
+    
+    .snowfalling {
+        position: absolute;
+        -webkit-animation: fall 10s linear infinite; 
+                animation: fall 10s linear infinite;
+    }
+    .snowfalling1 {
+        position: absolute;
+        right:35%;
+        top:40%;
+        -webkit-animation: fall 9s linear infinite; 
+                animation: fall 9s linear infinite;
+    }
+    .snowfalling2 {
+        position: absolute;
+        left:10%;
+        top:0%;
+        -webkit-animation: fall 12s linear infinite; 
+                animation: fall 12s linear infinite;
+    }
+    .snowfalling3 {
+        position: absolute;
+        right:10%;
+        top:43%;
+        -webkit-animation: fall 10s linear infinite; 
+                animation: fall 10s linear infinite;
+    }
+    .snowfalling4 {
+        position: absolute;
+        left:10%;
+        top: 50%;
+        -webkit-animation: fall 7s linear infinite; 
+                animation: fall 7s linear infinite;
+    }
+    .snowfalling5 {
+        position: absolute;
+        left:25%;
+        top:65%;
+        -webkit-animation: fall 11s linear infinite; 
+    }    
+    @-webkit-keyframes fall {	
+        0% { opacity:0; transform: translateY(-15vw); }
+        20% { opacity:1; transform: translateY(-9vw); }	
+        80% { opacity:1; transform: translateY(9vw); }	
+        100% { opacity:0; transform: translateY(15vw); }	
+      }
+      @keyframes fall {
+          0% { opacity:0; transform: translateY(-15vw); }	
+         20% { opacity:1; transform: translateY(-9vw); }	
+         80% { opacity:1; transform: translateY(9vw); }	
+        100% { opacity:0; transform: translateY(15vw); }	
+      }
+
+
+
+
 }
