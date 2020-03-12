@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7660b27e4e7bcfa9190feb8d2f0334b6",
+    "revision": "ce33f87c0a2fc87012572be05a6ae8e7",
     "url": "/Tiffolin/index.html"
   },
   {
-    "revision": "c4cd34947c7f6057a3cf",
+    "revision": "b64ed24649d95c4e7c9b",
     "url": "/Tiffolin/static/css/main.018cbfba.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Tiffolin/static/js/2.60893a21.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c4cd34947c7f6057a3cf",
-    "url": "/Tiffolin/static/js/main.a81f26bd.chunk.js"
+    "revision": "b64ed24649d95c4e7c9b",
+    "url": "/Tiffolin/static/js/main.ddc1d435.chunk.js"
   },
   {
     "revision": "c362e3fd2c47c0fad9ee",
