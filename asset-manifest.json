@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Tiffolin/static/css/main.018cbfba.chunk.css",
-    "main.js": "/Tiffolin/static/js/main.2f727312.chunk.js",
-    "main.js.map": "/Tiffolin/static/js/main.2f727312.chunk.js.map",
+    "main.js": "/Tiffolin/static/js/main.a81f26bd.chunk.js",
+    "main.js.map": "/Tiffolin/static/js/main.a81f26bd.chunk.js.map",
     "runtime-main.js": "/Tiffolin/static/js/runtime-main.e03b2195.js",
     "runtime-main.js.map": "/Tiffolin/static/js/runtime-main.e03b2195.js.map",
-    "static/js/2.2c129280.chunk.js": "/Tiffolin/static/js/2.2c129280.chunk.js",
-    "static/js/2.2c129280.chunk.js.map": "/Tiffolin/static/js/2.2c129280.chunk.js.map",
+    "static/js/2.60893a21.chunk.js": "/Tiffolin/static/js/2.60893a21.chunk.js",
+    "static/js/2.60893a21.chunk.js.map": "/Tiffolin/static/js/2.60893a21.chunk.js.map",
     "index.html": "/Tiffolin/index.html",
-    "precache-manifest.ade9c63f2ae93fa481d3c337ac5f0913.js": "/Tiffolin/precache-manifest.ade9c63f2ae93fa481d3c337ac5f0913.js",
+    "precache-manifest.3d14f59759275657503b879af2728cdc.js": "/Tiffolin/precache-manifest.3d14f59759275657503b879af2728cdc.js",
     "service-worker.js": "/Tiffolin/service-worker.js",
     "static/css/main.018cbfba.chunk.css.map": "/Tiffolin/static/css/main.018cbfba.chunk.css.map",
-    "static/js/2.2c129280.chunk.js.LICENSE.txt": "/Tiffolin/static/js/2.2c129280.chunk.js.LICENSE.txt",
+    "static/js/2.60893a21.chunk.js.LICENSE.txt": "/Tiffolin/static/js/2.60893a21.chunk.js.LICENSE.txt",
     "static/media/Design1.PNG": "/Tiffolin/static/media/Design1.89fb33f2.PNG",
     "static/media/Design2.PNG": "/Tiffolin/static/media/Design2.ca5b564b.PNG",
     "static/media/Design3.PNG": "/Tiffolin/static/media/Design3.5ba465b8.PNG",
@@ -26,19 +26,17 @@
     "static/media/linked5.png": "/Tiffolin/static/media/linked5.da805f4e.png",
     "static/media/logo.png": "/Tiffolin/static/media/logo.a9608dcb.png",
     "static/media/name.png": "/Tiffolin/static/media/name.af2961ae.png",
-    "static/media/pokemon.png": "/Tiffolin/static/media/pokemon.bbb2aa03.png",
     "static/media/profile2.png": "/Tiffolin/static/media/profile2.bc49542f.png",
     "static/media/recipeRecite.PNG": "/Tiffolin/static/media/recipeRecite.1adfcd6c.PNG",
     "static/media/sb.png": "/Tiffolin/static/media/sb.30539f69.png",
     "static/media/style.css": "/Tiffolin/static/media/splash4.a14f58cf.png",
     "static/media/testyourmemory.PNG": "/Tiffolin/static/media/testyourmemory.86a6f802.PNG",
-    "static/media/timeToGo.png": "/Tiffolin/static/media/timeToGo.1513cfe7.png",
-    "static/media/wineAway.png": "/Tiffolin/static/media/wineAway.fe9bedb7.png"
+    "static/media/timeToGo.png": "/Tiffolin/static/media/timeToGo.1513cfe7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e03b2195.js",
-    "static/js/2.2c129280.chunk.js",
+    "static/js/2.60893a21.chunk.js",
     "static/css/main.018cbfba.chunk.css",
-    "static/js/main.2f727312.chunk.js"
+    "static/js/main.a81f26bd.chunk.js"
   ]
 }

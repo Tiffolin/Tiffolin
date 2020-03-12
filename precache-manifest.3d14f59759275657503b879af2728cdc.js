@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4bfb641b0fd0cd04c9860546c3e00d2",
+    "revision": "7660b27e4e7bcfa9190feb8d2f0334b6",
     "url": "/Tiffolin/index.html"
   },
   {
-    "revision": "0223f6e3da816ad5be22",
+    "revision": "c4cd34947c7f6057a3cf",
     "url": "/Tiffolin/static/css/main.018cbfba.chunk.css"
   },
   {
-    "revision": "ce2b2745db97ab65a323",
-    "url": "/Tiffolin/static/js/2.2c129280.chunk.js"
+    "revision": "e3fc315fbd777ee42e54",
+    "url": "/Tiffolin/static/js/2.60893a21.chunk.js"
   },
   {
     "revision": "eff3b4d7e4bb0087ce53139cd90bc880",
-    "url": "/Tiffolin/static/js/2.2c129280.chunk.js.LICENSE.txt"
+    "url": "/Tiffolin/static/js/2.60893a21.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0223f6e3da816ad5be22",
-    "url": "/Tiffolin/static/js/main.2f727312.chunk.js"
+    "revision": "c4cd34947c7f6057a3cf",
+    "url": "/Tiffolin/static/js/main.a81f26bd.chunk.js"
   },
   {
     "revision": "c362e3fd2c47c0fad9ee",
@@ -80,10 +80,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Tiffolin/static/media/name.af2961ae.png"
   },
   {
-    "revision": "bbb2aa034321c485b3d2764b5faad9c3",
-    "url": "/Tiffolin/static/media/pokemon.bbb2aa03.png"
-  },
-  {
     "revision": "bc49542f70e0d43c8d620d49e7a6b5a6",
     "url": "/Tiffolin/static/media/profile2.bc49542f.png"
   },
@@ -106,9 +102,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1513cfe76ffb22128aa544d2edfd40c7",
     "url": "/Tiffolin/static/media/timeToGo.1513cfe7.png"
-  },
-  {
-    "revision": "fe9bedb7df7f5305885fe22bf995f501",
-    "url": "/Tiffolin/static/media/wineAway.fe9bedb7.png"
   }
 ]);
