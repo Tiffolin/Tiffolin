@@ -18,10 +18,10 @@ function Footer() {
                     <a href="mailto:szuchinlin3@gmail.com">
                         <span id="instagram"><img src={email} className="snsImg img-fluid" alt="..."></img></span>
                     </a>
-                    <a href="https://github.com/Tiffolin?tab=repositories">
+                    <a href="http://github.com/Tiffolin?tab=repositories">
                         <span id="facebook"><img src={github} className="snsImg img-fluid" alt="..."></img></span>
                     </a>
-                    <a href="https://www.linkedin.com/in/szuchinlin">
+                    <a href="http://www.linkedin.com/in/szuchinlin">
                         <span id="linkedIn"><img src={linkedIn} className="snsImg img-fluid" alt="..."></img></span>
                     </a>
                 </div>            

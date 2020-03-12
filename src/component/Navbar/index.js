@@ -38,10 +38,10 @@ return(
                     <a href="mailto:szuchinlin3@gmail.com">
                         <span><img src={email} className="NavSnsImg img-fluid" alt="..."></img></span>
                     </a>
-                    <a href="https://github.com/Tiffolin?tab=repositories">
+                    <a href="http://github.com/Tiffolin?tab=repositories">
                         <span><img src={github} className="NavSnsImg img-fluid" alt="..."></img></span>
                     </a>
-                    <a href="https://www.linkedin.com/in/szuchinlin">
+                    <a href="http://www.linkedin.com/in/szuchinlin">
                         <span><img src={linkedIn} className="NavSnsImg img-fluid" alt="..."></img></span>
                     </a>
              
