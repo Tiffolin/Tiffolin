@@ -9,9 +9,9 @@ import fifth from "../images/projScreenshot/Design5.PNG";
 import github from "../images/github2.png";
 import recipe from "../images/projScreenshot/recipeRecite.PNG"
 import clickGame from "../images/projScreenshot/testyourmemory.PNG"
-import wineAway from "../images/projScreenshot/wineAway.png";
+// import wineAway from "../images/projScreenshot/wineAway.png";
 import timeToGo from "../images/projScreenshot/timeToGo.png";
-import pokemon from "../images/projScreenshot/pokemon.png";
+// import pokemon from "../images/projScreenshot/pokemon.png";
 
 
 function Projects() {
@@ -213,9 +213,9 @@ function Projects() {
                     </div>
                 </div>
             </a>
-    </div>
+    </div> */}
 
-</div> */}
+</div>
 
     )
 }
