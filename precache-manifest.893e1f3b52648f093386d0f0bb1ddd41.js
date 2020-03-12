@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce33f87c0a2fc87012572be05a6ae8e7",
+    "revision": "4b050ac97247a628f380af52ab7d4b39",
     "url": "/Tiffolin/index.html"
   },
   {
