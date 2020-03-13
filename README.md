@@ -1,6 +1,7 @@
 # Design 5
 ### Overview
 My Portfolio Website (ReactJS)
+Snowboard enthusist & Full-Stack Web Developer. Incorporates ideas from various cultures into creative solutions to suit the global audience of today.
 
 ## Live Site
 https://www.tiffolin.com
