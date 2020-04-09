@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9635b327e518ce8a4291974b3891816",
+    "revision": "371ca320b8d1d0ee5dfc58f420384b6f",
     "url": "/Tiffolin/index.html"
   },
   {
-    "revision": "b64ed24649d95c4e7c9b",
+    "revision": "8fb0eaf7f558996ee45a",
     "url": "/Tiffolin/static/css/main.018cbfba.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Tiffolin/static/js/2.60893a21.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b64ed24649d95c4e7c9b",
-    "url": "/Tiffolin/static/js/main.ddc1d435.chunk.js"
+    "revision": "8fb0eaf7f558996ee45a",
+    "url": "/Tiffolin/static/js/main.13a0257a.chunk.js"
   },
   {
     "revision": "c362e3fd2c47c0fad9ee",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Tiffolin/static/media/Design3.5ba465b8.PNG"
   },
   {
-    "revision": "b3b4946128aa7738a647f9531c4acdda",
-    "url": "/Tiffolin/static/media/Design4.b3b49461.PNG"
+    "revision": "06d4b17cab2dbacb636a1ad12791315e",
+    "url": "/Tiffolin/static/media/Design4.06d4b17c.PNG"
   },
   {
     "revision": "c36bb36f8253af3c9cda2a35e44214a7",
