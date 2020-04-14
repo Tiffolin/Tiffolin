@@ -14,7 +14,7 @@ class App extends Component{
       <div id='App'>
         <BrowserRouter>        
           <div>
-            <Route exact path="/Tiffolin" component={Splash} />
+            <Route exact path="/" component={Splash} />
             <Navbar />
             <About />
             <Projects />
@@ -22,9 +22,6 @@ class App extends Component{
             <Route exact path="/Projects" component={Projects} />
             {/* <Route exact path="/Skills" component={Skills} />
             <Route exact path="/Contact" component={Contact} /> */}
-            
-
-
             <Footer/>
           </div>
       </BrowserRouter>   
