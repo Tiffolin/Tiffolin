@@ -9,8 +9,9 @@ import fifth from "../images/projScreenshot/Design5.PNG";
 import github from "../images/github2.png";
 import recipe from "../images/projScreenshot/recipeRecite.PNG"
 import clickGame from "../images/projScreenshot/testyourmemory.PNG"
-// import wineAway from "../images/projScreenshot/wineAway.png";
 import timeToGo from "../images/projScreenshot/timeToGo.png";
+import duo from "../images/projScreenshot/duo.png";
+// import wineAway from "../images/projScreenshot/wineAway.png";
 // import pokemon from "../images/projScreenshot/pokemon.png";
 
 
@@ -20,6 +21,25 @@ function Projects() {
     <p className="pageTitle col-12">Projects: Web Designs</p>
     <Insructions />
 
+    {/* Duo Patisserie  */}
+    <div className="ProjWrapper">  
+        <a href="https://github.com/Tiffolin/duo/tree/master">
+            <div className="codeLink">  
+                <span>Duo Patisserie & Cafe</span>
+                <span><img src={github} className="icons" alt="..."></img></span>
+                <span>REPO</span>
+            </div> 
+        </a>
+                
+        <a href="https://tiffolin.github.io/duo/">
+            <div className="projectContainer">
+                <div className="topDiv container-fluid"></div>
+                <div className="divUnder row">
+                    <img src={duo} className="topDiv img-fluid" alt="..."></img>
+                </div>
+            </div>
+        </a>
+    </div>
     {/* Design 5  */}
     <div className="ProjWrapper">  
         <a href="https://github.com/Tiffolin/Design5">
