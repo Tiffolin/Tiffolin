@@ -1,6 +1,6 @@
 import React from "react";
 // import {NavLink} from "react-router-dom";
-import Insructions from "../Insructions";
+import Instructions from "../Instructions";
 import first from "../images/projScreenshot/Design1.PNG";
 import second from "../images/projScreenshot/Design2.PNG";
 import third from "../images/projScreenshot/Design3.PNG";
@@ -12,14 +12,14 @@ import clickGame from "../images/projScreenshot/testyourmemory.PNG"
 import timeToGo from "../images/projScreenshot/timeToGo.png";
 import duo from "../images/projScreenshot/duo.png";
 // import wineAway from "../images/projScreenshot/wineAway.png";
-// import pokemon from "../images/projScreenshot/pokemon.png";
+import pokemon from "../images/projScreenshot/pokemon.png";
 
 
 function Projects() {
     return (
 <div id="projects" className="row justify-content-md-center sections">        
     <p className="pageTitle col-12">Projects: Web Designs</p>
-    <Insructions />
+    <Instructions />
 
     {/* Duo Patisserie  */}
     <div className="ProjWrapper">  
@@ -138,7 +138,7 @@ function Projects() {
     </div>
 
     <p className="pageTitle col-12">Projects : Apps</p>
-    <Insructions />
+    <Instructions />
     {/* Recipe Recite  */}
     <div className="ProjWrapper">  
             <a href="https://github.com/Tiffolin/Project-3_Team-2">
@@ -178,16 +178,16 @@ function Projects() {
             </a>
         </div>
     {/* Find a home for your Pokemon */}
-    {/* <div className="ProjWrapper">  
-            <a href="https://github.com/Saigonomai/Project1Team5.git">
+    <div className="ProjWrapper">  
+            <a href="https://github.com/Tiffolin/Find-a-Home-for-my-Pokemon">
                  <div className="codeLink">  
-                     <span>Find a home for your Pokemon</span>
+                     <span>Find a home for my Pokémon </span>
                      <span><img src={github} className="icons" alt="..."></img></span>
                      <span>REPO</span>
                 </div> 
             </a>
                 
-            <a href="https://saigonomai.github.io/Project1Team5/">
+            <a href="https://tiffolin.github.io/Find-a-Home-for-my-Pokemon/">
                 <div className="projectContainer">
                     <div className="topDiv container-fluid"></div>
                     <div className="divUnder row">
@@ -195,7 +195,7 @@ function Projects() {
                     </div>
                 </div>
             </a>
-    </div> */}
+    </div>
     {/* Test your memory (Click Game)  */}
     <div className="ProjWrapper">  
             <a href="https://github.com/Tiffolin/Test-your-memory-Click-Game-">
