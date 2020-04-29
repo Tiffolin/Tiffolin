@@ -3,7 +3,8 @@
 Snowboard enthusist & Full-Stack Web Developer. Incorporates ideas from various cultures into creative solutions to suit the global audience of today.
 
 ## Live Site
-https://www.tiffolin.com
+
+Access the live site [Here](http://www.tiffolin.com)
 
 ## Technologies and Libraries
 gtgit
