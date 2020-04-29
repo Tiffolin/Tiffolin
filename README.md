@@ -1,8 +1,7 @@
-# Portfolio
-## Overview
-Snowboard enthusist & Full-Stack Web Developer. Incorporates ideas from various cultures into creative solutions to suit the global audience of today.
-
+# Portfolio 
 **Access the live site** [Here](http://www.tiffolin.com)
+
+#### Snowboard enthusiast & Full-Stack Web Developer. Incorporates ideas from various cultures into creative solutions to suit the global audience of today.
 
 ## Technologies and Libraries
 
@@ -27,18 +26,10 @@ My new portfolio website. Previous version is now named Design 5 (can be found i
 
 
 ---
-The webpage is mobile responsive
+Mobile Responsiveness
 
 ![](screenshot/4.PNG) 
 
-
---- 
-![](screenshot/5.PNG)   
-
-
---- 
-
-![](screenshot/6.PNG)   
 ---
 ## Authors
 * **Tiffany Lin**         [Tiffolin](https://github.com/Tiffolin)
