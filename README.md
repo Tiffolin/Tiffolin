@@ -11,7 +11,7 @@
 * HTML
 * CSS
 
-## Demo
+## Website layout
 My new portfolio website. Previous version is now named Design 5 (can be found in my projects)
 
 ![](screenshot/1.PNG)      
@@ -26,7 +26,7 @@ My new portfolio website. Previous version is now named Design 5 (can be found i
 
 
 ---
-Mobile Responsiveness
+## Mobile Responsiveness
 
 ![](screenshot/4.PNG) 
 
