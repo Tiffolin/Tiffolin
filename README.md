@@ -1,20 +1,18 @@
 # Portfolio
-### Overview
+## Overview
 Snowboard enthusist & Full-Stack Web Developer. Incorporates ideas from various cultures into creative solutions to suit the global audience of today.
 
-## Live Site
-
-Access the live site [Here](http://www.tiffolin.com)
+**Access the live site** [Here](http://www.tiffolin.com)
 
 ## Technologies and Libraries
-gtgit
+
 * ReactJS
 * Webpack
 * Bootstrap
 * HTML
 * CSS
 
-### Demo
+## Demo
 My new portfolio website. Previous version is now named Design 5 (can be found in my projects)
 
 ![](screenshot/1.PNG)      
