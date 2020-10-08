@@ -1,25 +1,34 @@
 import React from "react";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import name from "../images/name.png";
-import domain from "../images/domain.png";
-import sb from "../images/sb.png";
+import Img1 from "../images/shadowImages/2.PNG";
+import Img2 from "../images/shadowImages/1.PNG";
+import Img3 from "../images/fullstack.png";
+
 import "../style.css";
 
 function Splash() {
     return (
         <div id="splashpage" className="justify-content-center">
             <Row>
-                <Col lg={4} md={12}>        
+                {/* <Col lg={4} md={12}>        
                     <img src={name} id="name" className="img-fluid" alt="..."></img>
+                </Col> */}
+                <Col lg={4} md={12}>
+                    <img src={Img1} id="Img1" className="img-fluid" alt="..."></img>
                 </Col>
                 <Col lg={4} md={12} >
-                    <img src={domain} id="domain" className="img-fluid" alt="..."></img>
+                    <img src={Img3} id="Img3" className="img-fluid" alt="..."></img>
                 </Col>
                 <Col lg={4} md={12} >
-                    <img src={sb} id="sb" className="img-fluid" alt="..."></img>
+                <img src={Img2} id="Img2" className="img-fluid" alt="..."></img>
                 </Col>
             </Row>
+            {/* <div className="snowAnim">
+                <div className="snowfalling3 delay3">
+                    <div className="snow"></div>
+                </div>
+            </div> */}
             <div className="snowAnim">
                 <div className="snowfalling1 delay3">
                     <div className="snow1"></div>

@@ -2,7 +2,7 @@ import React from "react";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import "../style.css";
-import profile from "../images/profile2.png";
+import profile from "../images/shadowImages/5.PNG";
 
 function About() {
     return (       

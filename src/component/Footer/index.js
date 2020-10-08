@@ -1,9 +1,9 @@
 import React from "react";
 // import Row from "react-bootstrap/Row";
 // import Col from "react-bootstrap/Col";
-import email from "../images/email5.png";
-import github from "../images/github5.png";
-import linkedIn from "../images/linked5.png"
+import email from "../images/icon/email.png";
+import github from "../images/icon/github.png";
+import linkedIn from "../images/icon/linkedin.jpg";
 
 
 function Footer() {
@@ -15,12 +15,13 @@ function Footer() {
                 </div>
                 <p className="footerText">Find me on:</p>
                 <div id="snsContainer">
-                    <a href="mailto:szuchinlin3@gmail.com">
-                        <span id="instagram"><img src={email} className="snsImg img-fluid" alt="..."></img></span>
-                    </a>
                     <a href="https://github.com/Tiffolin?tab=repositories">
                         <span id="facebook"><img src={github} className="snsImg img-fluid" alt="..."></img></span>
                     </a>
+                    <a href="mailto:szuchinlin3@gmail.com">
+                        <span id="instagram"><img src={email} className="snsImg img-fluid" alt="..."></img></span>
+                    </a>
+
                     <a href="https://www.linkedin.com/in/szuchinlin">
                         <span id="linkedIn"><img src={linkedIn} className="snsImg img-fluid" alt="..."></img></span>
                     </a>
