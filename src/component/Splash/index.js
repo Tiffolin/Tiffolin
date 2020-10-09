@@ -14,13 +14,13 @@ function Splash() {
                 {/* <Col lg={4} md={12}>        
                     <img src={name} id="name" className="img-fluid" alt="..."></img>
                 </Col> */}
-                <Col lg={4} md={12}>
+                <Col lg={4} md={12} sm={12}>
                     <img src={Img1} id="Img1" className="img-fluid" alt="..."></img>
                 </Col>
-                <Col lg={4} md={12} >
+                <Col lg={4} md={12} sm={12}>
                     <img src={Img3} id="Img3" className="img-fluid" alt="..."></img>
                 </Col>
-                <Col lg={4} md={12} >
+                <Col lg={4} md={12} sm={12}>
                 <img src={Img2} id="Img2" className="img-fluid" alt="..."></img>
                 </Col>
             </Row>
