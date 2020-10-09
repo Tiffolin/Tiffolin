@@ -529,11 +529,12 @@ body{
         text-align:center;
         padding:2px;
     }
-    .logo{
-        margin-right:0;
+
+    #logo{
+        display:none;
     }
     .NavSnsImg{
-        display:none;
+        margin-right:0;
     }
     .snowfalling {
         position: absolute;
