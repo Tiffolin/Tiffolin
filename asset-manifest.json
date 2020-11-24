@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ac0b8a7.chunk.css",
-    "main.js": "/static/js/main.b8d8d411.chunk.js",
-    "main.js.map": "/static/js/main.b8d8d411.chunk.js.map",
+    "main.css": "/static/css/main.a2c27035.chunk.css",
+    "main.js": "/static/js/main.252e605a.chunk.js",
+    "main.js.map": "/static/js/main.252e605a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.023ddf67.js",
     "runtime-main.js.map": "/static/js/runtime-main.023ddf67.js.map",
-    "static/js/2.9bf12ea8.chunk.js": "/static/js/2.9bf12ea8.chunk.js",
-    "static/js/2.9bf12ea8.chunk.js.map": "/static/js/2.9bf12ea8.chunk.js.map",
+    "static/js/2.605a65cf.chunk.js": "/static/js/2.605a65cf.chunk.js",
+    "static/js/2.605a65cf.chunk.js.map": "/static/js/2.605a65cf.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.01b2123039d77fe7d5ed34bbd2f5d2ff.js": "/precache-manifest.01b2123039d77fe7d5ed34bbd2f5d2ff.js",
+    "precache-manifest.1b4f620fddf2f1a64cc3ff652274372e.js": "/precache-manifest.1b4f620fddf2f1a64cc3ff652274372e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.4ac0b8a7.chunk.css.map": "/static/css/main.4ac0b8a7.chunk.css.map",
-    "static/js/2.9bf12ea8.chunk.js.LICENSE.txt": "/static/js/2.9bf12ea8.chunk.js.LICENSE.txt",
+    "static/css/main.a2c27035.chunk.css.map": "/static/css/main.a2c27035.chunk.css.map",
+    "static/js/2.605a65cf.chunk.js.LICENSE.txt": "/static/js/2.605a65cf.chunk.js.LICENSE.txt",
     "static/media/1.PNG": "/static/media/1.addf4c8d.PNG",
     "static/media/2.PNG": "/static/media/2.876491df.PNG",
     "static/media/5.PNG": "/static/media/5.fb433c2f.PNG",
@@ -20,6 +20,7 @@
     "static/media/Design3.PNG": "/static/media/Design3.5ba465b8.PNG",
     "static/media/Design4.PNG": "/static/media/Design4.06d4b17c.PNG",
     "static/media/Design5.PNG": "/static/media/Design5.c36bb36f.PNG",
+    "static/media/Zzzmerch.png": "/static/media/Zzzmerch.c4a8145c.png",
     "static/media/duo.png": "/static/media/duo.d451e9ad.png",
     "static/media/fullstack.png": "/static/media/fullstack.a4beefe7.png",
     "static/media/linkedin.jpg": "/static/media/linkedin.3aa96db4.jpg",
@@ -30,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.023ddf67.js",
-    "static/js/2.9bf12ea8.chunk.js",
-    "static/css/main.4ac0b8a7.chunk.css",
-    "static/js/main.b8d8d411.chunk.js"
+    "static/js/2.605a65cf.chunk.js",
+    "static/css/main.a2c27035.chunk.css",
+    "static/js/main.252e605a.chunk.js"
   ]
 }
