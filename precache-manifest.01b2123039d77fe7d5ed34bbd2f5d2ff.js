@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "267897b0dfac52ac8ff479b9f52b5d16",
+    "revision": "cbb192911346e9bba2745240780857b2",
     "url": "/index.html"
   },
   {
-    "revision": "3275d930e27f057effae",
-    "url": "/static/css/main.b3cc6937.chunk.css"
+    "revision": "c7e0e5cd00782b081eaf",
+    "url": "/static/css/main.4ac0b8a7.chunk.css"
   },
   {
     "revision": "1b5e12ff2f3ae0f31b66",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.9bf12ea8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3275d930e27f057effae",
-    "url": "/static/js/main.6d3dda8b.chunk.js"
+    "revision": "c7e0e5cd00782b081eaf",
+    "url": "/static/js/main.b8d8d411.chunk.js"
   },
   {
     "revision": "25e4ff88ce2d1d8efc53",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/5.fb433c2f.PNG"
   },
   {
-    "revision": "89fb33f2827d423be4eb54c86b154173",
-    "url": "/static/media/Design1.89fb33f2.PNG"
+    "revision": "b47144e3eac0e0e831048781be77ef54",
+    "url": "/static/media/Design1.b47144e3.PNG"
   },
   {
     "revision": "ca5b564b0a2fdb484d1b879e91be2044",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Design5.c36bb36f.PNG"
   },
   {
-    "revision": "931e01b60b0b8af8977b76d85434d6d9",
-    "url": "/static/media/duo.931e01b6.png"
+    "revision": "d451e9ad67d54d8f7f57feeb76bcf770",
+    "url": "/static/media/duo.d451e9ad.png"
   },
   {
     "revision": "a4beefe7a12f6138178eda0ab1b9e24a",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/linkedin.3aa96db4.jpg"
   },
   {
-    "revision": "bbb2aa034321c485b3d2764b5faad9c3",
-    "url": "/static/media/pokemon.bbb2aa03.png"
+    "revision": "e5bccd0f99b850c2175039b93b83ef31",
+    "url": "/static/media/pokemon.e5bccd0f.png"
   },
   {
     "revision": "1adfcd6c99219fcac4652ef8feb459f9",
