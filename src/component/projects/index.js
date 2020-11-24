@@ -13,6 +13,8 @@ import timeToGo from "../images/projScreenshot/timeToGo.png";
 import duo from "../images/projScreenshot/duo.png";
 // import wineAway from "../images/projScreenshot/wineAway.png";
 import pokemon from "../images/projScreenshot/pokemon.png";
+import Zzzmerch from "../images/projScreenshot/Zzzmerch.png";
+
 
 
 function Projects() {
@@ -36,6 +38,25 @@ function Projects() {
                 <div className="topDiv container-fluid"></div>
                 <div className="divUnder row">
                     <img src={duo} className="topDiv img-fluid" alt="..."></img>
+                </div>
+            </div>
+        </a>
+    </div>
+    {/* ZzzMerch  */}
+    <div className="ProjWrapper">  
+        <a href="https://github.com/Tiffolin/ZzzMerch">
+            <div className="codeLink">  
+                <span>ZzzMerch</span>
+                <span><img src={github} className="icons" alt="..."></img></span>
+                <span>REPO</span>
+            </div> 
+        </a>
+                
+        <a href="https://zzzmerch.herokuapp.com/">
+            <div className="projectContainer">
+                <div className="topDiv container-fluid"></div>
+                <div className="divUnder row">
+                    <img src={Zzzmerch} className="topDiv img-fluid" alt="..."></img>
                 </div>
             </div>
         </a>
