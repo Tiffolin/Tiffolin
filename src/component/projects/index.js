@@ -141,7 +141,7 @@ function Projects() {
     <Instructions />
     {/* Recipe Recite  */}
     <div className="ProjWrapper">  
-            <a href="https://github.com/Tiffolin/Project-3_Team-2">
+            <a href="https://github.com/Tiffolin/Recipe-Recite">
                 <div className="codeLink">  
                     <span>Recipe Recite</span>
                     <span><img src={github} className="icons" alt="..."></img></span>
@@ -149,11 +149,49 @@ function Projects() {
                 </div> 
             </a>
                 
-            <a href="https://vast-cliffs-50637.herokuapp.com/">
+            <a href="https://recipe-recite-app.herokuapp.com/">
                 <div className="projectContainer">
                     <div className="topDiv container-fluid"></div>
                     <div className="divUnder row">
                         <img src={recipe} className="topDiv img-fluid" alt="..."></img>
+                    </div>
+                </div>
+            </a>
+    </div>
+        {/* Find a home for your Pokemon */}
+        <div className="ProjWrapper">  
+            <a href="https://github.com/Tiffolin/Find-a-Home-for-my-Pokemon">
+                 <div className="codeLink">  
+                     <span>Find a home for my Pokémon </span>
+                     <span><img src={github} className="icons" alt="..."></img></span>
+                     <span>REPO</span>
+                </div> 
+            </a>
+                
+            <a href="https://tiffolin.github.io/Find-a-Home-for-my-Pokemon/">
+                <div className="projectContainer">
+                    <div className="topDiv container-fluid"></div>
+                    <div className="divUnder row">
+                        <img src={pokemon} className="topDiv img-fluid" alt="..."></img>
+                    </div>
+                </div>
+            </a>
+    </div>
+    {/* BT21Game (Click Game)  */}
+    <div className="ProjWrapper">  
+            <a href="https://github.com/Tiffolin/BT21-Game">
+                <div className="codeLink">  
+                    <span>BT21 Click Game</span>
+                    <span><img src={github} className="icons" alt="..."></img></span>
+                    <span>REPO</span>
+                </div> 
+            </a>
+                
+            <a href="https://bt21game.herokuapp.com/">
+                <div className="projectContainer">
+                    <div className="topDiv container-fluid"></div>
+                    <div className="divUnder row">
+                        <img src={clickGame} className="topDiv img-fluid" alt="..."></img>
                     </div>
                 </div>
             </a>
@@ -177,44 +215,7 @@ function Projects() {
                 </div>
             </a>
         </div>
-    {/* Find a home for your Pokemon */}
-    <div className="ProjWrapper">  
-            <a href="https://github.com/Tiffolin/Find-a-Home-for-my-Pokemon">
-                 <div className="codeLink">  
-                     <span>Find a home for my Pokémon </span>
-                     <span><img src={github} className="icons" alt="..."></img></span>
-                     <span>REPO</span>
-                </div> 
-            </a>
-                
-            <a href="https://tiffolin.github.io/Find-a-Home-for-my-Pokemon/">
-                <div className="projectContainer">
-                    <div className="topDiv container-fluid"></div>
-                    <div className="divUnder row">
-                        <img src={pokemon} className="topDiv img-fluid" alt="..."></img>
-                    </div>
-                </div>
-            </a>
-    </div>
-    {/* Test your memory (Click Game)  */}
-    <div className="ProjWrapper">  
-            <a href="https://github.com/Tiffolin/Test-your-memory-Click-Game-">
-                <div className="codeLink">  
-                    <span>BT21 Click Game</span>
-                    <span><img src={github} className="icons" alt="..."></img></span>
-                    <span>REPO</span>
-                </div> 
-            </a>
-                
-            <a href="https://test-your-memory-glick-game.herokuapp.com/">
-                <div className="projectContainer">
-                    <div className="topDiv container-fluid"></div>
-                    <div className="divUnder row">
-                        <img src={clickGame} className="topDiv img-fluid" alt="..."></img>
-                    </div>
-                </div>
-            </a>
-    </div>
+
     {/* Wine Away  */}
     {/* <div className="ProjWrapper">  
             <a href="https://github.com/Tiffolin/Wine-Away">
