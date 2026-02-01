@@ -1,9 +1,11 @@
 import React from "react";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import Img1 from "../images/shadowImages/2.PNG";
-import Img2 from "../images/shadowImages/1.PNG";
-import Img3 from "../images/fullstack.png";
+import Img1 from "../images/sb.png";
+import Img2 from "../images/profile2.png";
+import Img3 from "../images/name.png";
+//import Img4 from "../images/domain.png";
+
 
 import "../style.css";
 
@@ -15,10 +17,13 @@ function Splash() {
                     <img src={name} id="name" className="img-fluid" alt="..."></img>
                 </Col> */}
                 <Col lg={4} md={12} sm={12}>
-                    <img src={Img1} id="Img1" className="img-fluid" alt="..."></img>
-                </Col>
-                <Col lg={4} md={12} sm={12}>
                     <img src={Img3} id="Img3" className="img-fluid" alt="..."></img>
+                </Col>
+
+                <Col lg={3} md={0} sm={0}></Col>
+
+                <Col lg={4} md={12} sm={12}>
+                    <img src={Img1} id="Img1" className="img-fluid" alt="..."></img>
                 </Col>
                 <Col lg={4} md={12} sm={12}>
                 <img src={Img2} id="Img2" className="img-fluid" alt="..."></img>

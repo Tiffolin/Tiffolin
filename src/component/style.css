@@ -18,11 +18,11 @@ body{
     overflow:hidden;
 }
 #Img1{
-    height:35%;
+    height:90%;
     padding:5%;
-    padding-top:20%;
+    padding-top:50%;
     padding-left:15%;
-    text-align:left;
+    text-align:right;
 }
 #Img2{
     display:none;
@@ -323,6 +323,12 @@ body{
     box-shadow:  0 0 5px  black;
     overflow:hidden;
 }
+.ProjWrapper2{
+    float:left;
+    margin:2.5%;
+    box-shadow:  0 0 5px  white;
+    overflow:hidden;
+}
 .ProjWrapper a{
     color:black;
 }
@@ -333,6 +339,10 @@ body{
 }
 .codeLink{
     margin-bottom:3.3%;
+    transition: transform 1s; /* Animation */
+}
+.codeLink2{
+    background-color: whitesmoke;
     transition: transform 1s; /* Animation */
 }
 .codeLink:hover{
@@ -347,7 +357,18 @@ body{
     box-shadow:  0 0 5px  black;
     transition: transform 2s; /* Animation */
 }
+.projectContainer2{
+    text-align:center;
+    height:265px;
+    width:400px;
+    overflow:hidden;
+    box-shadow:  0 0 5px  white;
+    transition: transform 2s; /* Animation */
+}
 .projectContainer:hover{
+    transform: scale(1.1);
+}
+.projectContainer2:hover{
     transform: scale(1.1);
 }
 .topDiv {
@@ -363,6 +384,20 @@ body{
     opacity:0;
     transform: scale(1.2);
 }
+.topDiv2 {
+    width: 100%;
+    height: 100%;
+    padding:0;
+    box-shadow:  0 0 5px  grey;
+
+    opacity:0.99;
+    transition: transform 5s; /* Animation */
+}
+.topDiv2:hover{
+    opacity:0.6;
+    transform: scale(1.2);
+}
+
 .divUnder{ /*the div under the img, which will show when img turns opague (on:hover). Wraps around proudctName, cakeDescription & allergy*/
     position:relative;
     top:-100%;
@@ -379,6 +414,22 @@ body{
 .divUnder:hover{
     z-index:5;
     opacity:1
+}
+.divUnder2{ /*the div under the img, which will show when img turns opague (on:hover). Wraps around proudctName, cakeDescription & allergy*/
+    position:relative;
+    top:-100%;
+    padding:0;
+    margin:0;
+    border:0;
+    font-family: serif;
+    font-size: 16px;
+
+}
+.divUnder2 img{
+    height:100%;
+}
+.divUnder:hover{
+
 }
 .projImg{
     width: 100%;
@@ -418,8 +469,36 @@ body{
     padding-top:12px;
     margin:0;
 }
-/*BLOG 
+/*VIDEO EDITING 
 /////////////////////////////////////////////////////////*/
+.videos {
+  padding: 4rem 2rem;
+}
+
+.video-section {
+  margin-bottom: 4rem;
+}
+
+.video-section h3 {
+  margin-bottom: 0.5rem;
+}
+
+.video-section p {
+  max-width: 700px;
+  margin-bottom: 1.5rem;
+}
+
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.video-grid iframe {
+  width: 100%;
+  height: 315px;
+  border-radius: 8px;
+}
 
 
 /*FOOTER

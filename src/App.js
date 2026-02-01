@@ -1,13 +1,15 @@
 import React from "react";
 import { BrowserRouter, Route } from "react-router-dom";
 
-import Navbar from "./component/Navbar";
-import Splash from "./component/Splash";
-import About from "./component/About";
-import Projects from "./component/projects";
-// import Skills from "./component/Skills";
+import Navbar from "./component/navbar/navbar";
+import Splash from "./component/splash/splash";
+import About from "./component/about/about";
+import Webdesigns from "./component/webdesigns/webdesign";
+import AppProjects from "./component/appprojects/appprojects";
+import Videos from "./component/videos/videos";
+
 // import Contact from "./component/Contact";
-import Footer from "./component/Footer";
+import Footer from "./component/footer/footer";
 
 function App() {
   return (
@@ -20,9 +22,13 @@ function App() {
       
       <Route exact path="/about" component={About} />
       <About />
-      
-      <Route exact path="/projects" component={Projects} />
-      <Projects />
+     <Route exact path="/videos" component={Videos} />
+      <Videos />
+      <Route exact path="/webdesigns" component={Webdesigns} />
+      <Webdesigns />
+      <Route exact path="/appprojects" component={AppProjects} />
+      <AppProjects />
+ 
       {/* <Route exact path="/skills" component={Skills} /> */}
       {/* <Route exact path="/contact" component={Contact} /> */}
 
