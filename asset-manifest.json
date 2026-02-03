@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.54d6c1e7.css",
-    "main.js": "/static/js/main.82052d0b.js",
+    "main.css": "/static/css/main.dbda5b73.css",
+    "main.js": "/static/js/main.457b4153.js",
     "static/media/Design1.PNG": "/static/media/Design1.42eb88b407307946796e.PNG",
     "static/media/Design4.PNG": "/static/media/Design4.7d6e5716f6fe2e34dbb1.PNG",
     "static/media/Design3.PNG": "/static/media/Design3.b961519d1a8bfd3026e0.PNG",
@@ -12,12 +12,13 @@
     "static/media/pokemon.png": "/static/media/pokemon.c5434a964b3f35ff1323.png",
     "static/media/name.png": "/static/media/name.78fd07484804a40507d9.png",
     "static/media/linkedin.jpg": "/static/media/linkedin.06e4c080c2f00389b16c.jpg",
+    "static/media/lin.png": "/static/media/lin.5c792f6a550832a225f7.png",
     "index.html": "/index.html",
-    "main.54d6c1e7.css.map": "/static/css/main.54d6c1e7.css.map",
-    "main.82052d0b.js.map": "/static/js/main.82052d0b.js.map"
+    "main.dbda5b73.css.map": "/static/css/main.dbda5b73.css.map",
+    "main.457b4153.js.map": "/static/js/main.457b4153.js.map"
   },
   "entrypoints": [
-    "static/css/main.54d6c1e7.css",
-    "static/js/main.82052d0b.js"
+    "static/css/main.dbda5b73.css",
+    "static/js/main.457b4153.js"
   ]
 }
