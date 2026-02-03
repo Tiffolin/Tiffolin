@@ -1,0 +1,282 @@
+
+/*.snowAnim {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+.snow {
+    width: 3.5em;
+    height: 3.5em;
+    padding-top:15%;
+    border:3px solid black;
+    border-radius: 50%;
+}
+.snow1 {
+    width: 1.5em;
+    height: 1.5em;
+    padding-top:15%;
+    border:3px solid black;
+    border-radius: 50%;
+}
+.snow2 {
+    width: 3.5em;
+    height: 3.5em;
+    border:3px solid black;
+    border-radius: 50%;
+}
+.snow3 {
+    width: 3em;
+    height: 3em;
+    padding-top:20%;
+    border:3px solid black;
+    border-radius: 50%;
+}
+.snow4 {
+    width: 1em;
+    height: 1em;
+    border:3px solid black;
+    border-radius: 50%;
+}
+.snow5 {
+    width: 2em;
+    height: 2em;
+    padding-top:15%;
+    border:3px solid black;
+    border-radius: 50%;
+} 
+.snow {
+    width: 3.5em;
+    height: 3.5em;
+    padding-top:15%;
+    border:3px solid black;
+    border-radius: 50%;
+}
+
+#1fromLeft
+.snow2 {
+    width: 1em;
+    height: 1em;
+    border:3px solid grey;
+    border-radius: 50%;
+}
+#2fromLeft
+.snow5 {
+    width: 2em;
+    height: 2em;
+    padding-top:15%;
+    border:3px solid black;
+    border-radius: 50%;
+}
+#3fromLeft
+.snow4 {
+    width: 1em;
+    height: 1em;
+    border:3px solid black;
+    border-radius: 50%;
+}
+#4fromLeft
+.snow1 {
+    width: 1em;
+    height: 1em;
+    padding-top:15%;
+    border:3px solid black;
+    border-radius: 50%;
+}
+#5fromLeft
+.snow3 {
+    width: 2em;
+    height: 2em;
+    padding-top:20%;
+    border:3px solid grey;
+    border-radius: 50%;
+}
+
+
+.snowfalling {
+    position: absolute;
+    -webkit-animation: fall 10s linear infinite; 
+            animation: fall 10s linear infinite;
+}
+.snowfalling1 {
+    position: absolute;
+    right:25%;
+    top:60%;
+    -webkit-animation: fall 10s linear infinite; 
+            animation: fall 10s linear infinite;
+}
+.snowfalling2 {
+    position: absolute;
+    left:10%;
+    top:30%;
+    -webkit-animation: fall 12s linear infinite; 
+            animation: fall 12s linear infinite;
+}
+.snowfalling3 {
+    position: absolute;
+    right:10%;
+    top:43%;
+    -webkit-animation: fall 10s linear infinite; 
+            animation: fall 10s linear infinite;
+}
+.snowfalling4 {
+    position: absolute;
+    left:40%;
+    top:30%;
+    -webkit-animation: fall 7s linear infinite; 
+            animation: fall 7s linear infinite;
+}
+.snowfalling5 {
+    position: absolute;
+    left:25%;
+    top:70%;
+    -webkit-animation: fall 11s linear infinite; 
+            animation: fall 11s linear infinite;
+}
+.delay1 {
+    -webkit-animation-delay: 1s; 
+      animation-delay: 1s;
+}
+.delay2 {
+    -webkit-animation-delay: 2s; 
+      animation-delay: 2s;
+}
+  .delay3 {
+    -webkit-animation-delay: 5s; 
+      animation-delay: 5s;
+  }
+  @-webkit-keyframes fall {	
+    0% { opacity:0; transform: translateY(-15vw); }
+    20% { opacity:1; transform: translateY(-9vw); }	
+    80% { opacity:1; transform: translateY(9vw); }	
+    100% { opacity:0; transform: translateY(15vw); }	
+  }
+  @keyframes fall {
+      0% { opacity:0; transform: translateY(-15vw); }	
+     20% { opacity:1; transform: translateY(-9vw); }	
+     80% { opacity:1; transform: translateY(9vw); }	
+    100% { opacity:0; transform: translateY(15vw); }	
+  }
+
+
+MEDIA RESPONSIVENESS 
+  IPAD PRO  = 1024 x 1366
+  IPAD      =  768 X 1024
+  IPHONE X  =  375 X  812
+  IPHONE SE =  320 X  568
+  GALAXY S5 =  360 X  640
+  PIXEL     =  411 X  731
+  PIXEL XL  =  411 X  823
+/////////////////////////////////////////////////////////
+@media only screen and (max-width: 770px) { /* IPAD PORTRAITS & MOBILES
+    *{
+        overflow:auto;
+    }
+
+    .snowfalling {
+        position: absolute;
+
+    }
+    .snowfalling1 {
+        position: absolute;
+        right:35%;
+        top:40%;
+        -webkit-animation: fall 9s linear infinite; 
+                animation: fall 9s linear infinite;
+    }
+    .snowfalling2 {
+        position: absolute;
+        left:10%;
+        top:0%;
+        -webkit-animation: fall 12s linear infinite; 
+                animation: fall 12s linear infinite;
+    }
+    .snowfalling3 {
+        position: absolute;
+        right:10%;
+        top:43%;
+        -webkit-animation: fall 10s linear infinite; 
+                animation: fall 10s linear infinite;
+    }
+    .snowfalling4 {
+        position: absolute;
+        left:10%;
+        top: 50%;
+        -webkit-animation: fall 7s linear infinite; 
+                animation: fall 7s linear infinite;
+    }
+    .snowfalling5 {
+        position: absolute;
+        left:25%;
+        top:65%;
+    }    
+}*/
+
+/* Snow container */
+.splash__snow {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+/* Base snowflake */
+.splash__snow-layer {
+  position: absolute;
+  border: 2px solid black; /*rgba(255, 255, 255, 0.7)*/
+  border-radius: 50%;
+  animation-name: fall;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+/* Individual layers */
+.splash__snow--one {
+  left: 10%;
+  animation-duration: 10s;
+  width: 38px;
+  height: 38px;
+}
+
+.splash__snow--two {
+  left: 25%;
+  animation-duration: 12s;
+  width: 20px;
+  height: 20px;
+}
+
+.splash__snow--three {
+  left: 45%;
+  animation-duration: 9s;
+  width: 12px;
+  height: 12px;
+}
+
+.splash__snow--four {
+  left: 65%;
+  animation-duration: 11s;
+  width: 30px;
+  height: 30px;
+}
+
+.splash__snow--five {
+  left: 85%;
+  animation-duration: 13s;
+  width: 15px;
+  height: 15px;
+}
+
+/* Falling animation */
+@keyframes fall {
+  0% {
+    transform: translateY(-20vh);
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(120vh);
+    opacity: 0;
+  }
+}
+

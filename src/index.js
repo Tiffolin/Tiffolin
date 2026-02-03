@@ -19,6 +19,9 @@ import React from 'react';
 import { createRoot } from 'react-dom/client';
 
 import './index.css';
+import "./styles/globals.css";
+import "./styles/snowflakes.css";
+
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 

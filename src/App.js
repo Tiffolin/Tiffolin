@@ -1,42 +1,43 @@
 import React from "react";
-import { BrowserRouter, Route } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
-import Navbar from "./component/navbar/navbar";
-import Splash from "./component/splash/splash";
-import About from "./component/about/about";
-import Webdesigns from "./component/webdesigns/webdesign";
-import AppProjects from "./component/appprojects/appprojects";
-import Videos from "./component/videos/videos";
+// Layout
+import Navbar from "./components/navbar/Navbar";
+import Footer from "./components/footer/Footer";
 
-// import Contact from "./component/Contact";
-import Footer from "./component/footer/footer";
+// Pages
+import Splash from "./components/splash/Splash";
+import About from "./components/about/About";
+import AppProjects from "./components/app-projects/AppProjects";
+import WebDesign from "./components/web-designs/WebDesign";
+import Videos from "./components/videos/Videos";
+
+import "./styles/globals.css";
+import "./styles/snowflakes.css";
+
 
 function App() {
   return (
-    <BrowserRouter>
-      {/* Always visible layout */}
-      <Route exact path="/" component={Splash} />
+    <Router>
+   
       <Navbar />
 
-      {/* Pages */}
-      
-      <Route exact path="/about" component={About} />
+      <Switch>
+        <Route exact path="/" component={Splash} />
+        <Route path="/about" component={About} />
+        <Route path="/videos" component={Videos} />
+        <Route path="/webdesigns" component={WebDesign} />
+        <Route path="/appprojects" component={AppProjects} />
+      </Switch>
       <About />
-     <Route exact path="/videos" component={Videos} />
       <Videos />
-      <Route exact path="/webdesigns" component={Webdesigns} />
-      <Webdesigns />
-      <Route exact path="/appprojects" component={AppProjects} />
-      <AppProjects />
- 
-      {/* <Route exact path="/skills" component={Skills} /> */}
-      {/* <Route exact path="/contact" component={Contact} /> */}
+      <WebDesign />
+      <AppProjects /> 
 
-      {/* Always visible layout */}
+
       <Footer />
-    </BrowserRouter>
+    </Router>
   );
 }
 
 export default App;
-
