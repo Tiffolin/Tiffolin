@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.dbda5b73.css",
-    "main.js": "/static/js/main.457b4153.js",
-    "static/media/Design1.PNG": "/static/media/Design1.42eb88b407307946796e.PNG",
-    "static/media/Design4.PNG": "/static/media/Design4.7d6e5716f6fe2e34dbb1.PNG",
-    "static/media/Design3.PNG": "/static/media/Design3.b961519d1a8bfd3026e0.PNG",
-    "static/media/profile2.png": "/static/media/profile2.aeb8282b6fc471cafe4e.png",
-    "static/media/sb.png": "/static/media/sb.1465e0f3206f03e1d2ac.png",
-    "static/media/Design5.PNG": "/static/media/Design5.62a029b056ac0d9fe9d7.PNG",
-    "static/media/Design2.PNG": "/static/media/Design2.7ecfe42db788a48a611b.PNG",
-    "static/media/pokemon.png": "/static/media/pokemon.c5434a964b3f35ff1323.png",
-    "static/media/name.png": "/static/media/name.78fd07484804a40507d9.png",
-    "static/media/linkedin.jpg": "/static/media/linkedin.06e4c080c2f00389b16c.jpg",
-    "static/media/lin.png": "/static/media/lin.5c792f6a550832a225f7.png",
-    "index.html": "/index.html",
-    "main.dbda5b73.css.map": "/static/css/main.dbda5b73.css.map",
-    "main.457b4153.js.map": "/static/js/main.457b4153.js.map"
+    "main.css": "/YOUR_REPO/static/css/main.4161023d.css",
+    "main.js": "/YOUR_REPO/static/js/main.bb723882.js",
+    "static/media/Design1.PNG": "/YOUR_REPO/static/media/Design1.42eb88b407307946796e.PNG",
+    "static/media/Design4.PNG": "/YOUR_REPO/static/media/Design4.7d6e5716f6fe2e34dbb1.PNG",
+    "static/media/Design3.PNG": "/YOUR_REPO/static/media/Design3.b961519d1a8bfd3026e0.PNG",
+    "static/media/sb.png": "/YOUR_REPO/static/media/sb.a02fc7a5c8db59c6a2f5.png",
+    "static/media/profile2.png": "/YOUR_REPO/static/media/profile2.be95398bc47ca047850c.png",
+    "static/media/Design5.PNG": "/YOUR_REPO/static/media/Design5.62a029b056ac0d9fe9d7.PNG",
+    "static/media/Design2.PNG": "/YOUR_REPO/static/media/Design2.7ecfe42db788a48a611b.PNG",
+    "static/media/pokemon.png": "/YOUR_REPO/static/media/pokemon.c5434a964b3f35ff1323.png",
+    "static/media/name.png": "/YOUR_REPO/static/media/name.78fd07484804a40507d9.png",
+    "static/media/linkedin.jpg": "/YOUR_REPO/static/media/linkedin.06e4c080c2f00389b16c.jpg",
+    "static/media/lin.png": "/YOUR_REPO/static/media/lin.5c792f6a550832a225f7.png",
+    "index.html": "/YOUR_REPO/index.html",
+    "main.4161023d.css.map": "/YOUR_REPO/static/css/main.4161023d.css.map",
+    "main.bb723882.js.map": "/YOUR_REPO/static/js/main.bb723882.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbda5b73.css",
-    "static/js/main.457b4153.js"
+    "static/css/main.4161023d.css",
+    "static/js/main.bb723882.js"
   ]
 }
