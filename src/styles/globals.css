@@ -3,9 +3,7 @@
 ================================ */
 body {
   margin: 0;
-  font-family: "Montserrat", sans-serif;
-  background-color: #fafafa;
-  color: #222;
+  font-family: libre franklin, sans-serif;
 }
 
 a {
@@ -183,6 +181,8 @@ margin-bottom: 2rem;
 .about {
   max-width: 900px;
   margin: 0 auto;
+  background-color: black;
+  color:#fafafa
 }
 
 .about__content {
