@@ -182,7 +182,9 @@ margin-bottom: 2rem;
   max-width: 900px;
   margin: 0 auto;
   background-color: black;
-  color:#fafafa
+  color:#fafafa;
+  border-radius:50px;
+  padding:2rem;
 }
 
 .about__content {
@@ -199,6 +201,7 @@ margin-bottom: 2rem;
 
 .project-card {
   margin-bottom: 3rem;
+  
 }
 
 .project-card {
