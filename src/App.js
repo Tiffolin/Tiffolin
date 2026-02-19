@@ -29,7 +29,6 @@ function App() {
         <Route path="/webdesigns" component={WebDesign} />
         <Route path="/appprojects" component={AppProjects} />
       </Switch>
-      <Splash />
       <About />
       <Videos />
       <WebDesign />
