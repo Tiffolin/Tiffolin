@@ -21,6 +21,7 @@ import { createRoot } from 'react-dom/client';
 import './index.css';
 import "./styles/globals.css";
 import "./styles/snowflakes.css";
+import { HashRouter } from "react-router-dom";
 
 import App from './App';
 import * as serviceWorker from './serviceWorker';
@@ -30,7 +31,10 @@ const root = createRoot(container);
 
 root.render(
   <React.StrictMode>
-    <App />
+    <HashRouter>
+      <App />
+    </HashRouter>
+    
   </React.StrictMode>
 );
 
