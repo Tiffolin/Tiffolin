@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/YOUR_REPO/static/css/main.4161023d.css",
-    "main.js": "/YOUR_REPO/static/js/main.717e950c.js",
-    "static/media/Design1.PNG": "/YOUR_REPO/static/media/Design1.42eb88b407307946796e.PNG",
-    "static/media/Design4.PNG": "/YOUR_REPO/static/media/Design4.7d6e5716f6fe2e34dbb1.PNG",
-    "static/media/Design3.PNG": "/YOUR_REPO/static/media/Design3.b961519d1a8bfd3026e0.PNG",
-    "static/media/sb.png": "/YOUR_REPO/static/media/sb.a02fc7a5c8db59c6a2f5.png",
-    "static/media/profile2.png": "/YOUR_REPO/static/media/profile2.be95398bc47ca047850c.png",
-    "static/media/Design5.PNG": "/YOUR_REPO/static/media/Design5.62a029b056ac0d9fe9d7.PNG",
-    "static/media/Design2.PNG": "/YOUR_REPO/static/media/Design2.7ecfe42db788a48a611b.PNG",
-    "static/media/pokemon.png": "/YOUR_REPO/static/media/pokemon.c5434a964b3f35ff1323.png",
-    "static/media/name.png": "/YOUR_REPO/static/media/name.78fd07484804a40507d9.png",
-    "static/media/linkedin.jpg": "/YOUR_REPO/static/media/linkedin.06e4c080c2f00389b16c.jpg",
-    "static/media/lin.png": "/YOUR_REPO/static/media/lin.5c792f6a550832a225f7.png",
-    "index.html": "/YOUR_REPO/index.html",
-    "main.4161023d.css.map": "/YOUR_REPO/static/css/main.4161023d.css.map",
-    "main.717e950c.js.map": "/YOUR_REPO/static/js/main.717e950c.js.map"
+    "main.css": "/tiffolin/static/css/main.4161023d.css",
+    "main.js": "/tiffolin/static/js/main.e0eb6698.js",
+    "static/media/Design1.PNG": "/tiffolin/static/media/Design1.42eb88b407307946796e.PNG",
+    "static/media/Design4.PNG": "/tiffolin/static/media/Design4.7d6e5716f6fe2e34dbb1.PNG",
+    "static/media/Design3.PNG": "/tiffolin/static/media/Design3.b961519d1a8bfd3026e0.PNG",
+    "static/media/sb.png": "/tiffolin/static/media/sb.a02fc7a5c8db59c6a2f5.png",
+    "static/media/profile2.png": "/tiffolin/static/media/profile2.be95398bc47ca047850c.png",
+    "static/media/Design5.PNG": "/tiffolin/static/media/Design5.62a029b056ac0d9fe9d7.PNG",
+    "static/media/Design2.PNG": "/tiffolin/static/media/Design2.7ecfe42db788a48a611b.PNG",
+    "static/media/pokemon.png": "/tiffolin/static/media/pokemon.c5434a964b3f35ff1323.png",
+    "static/media/name.png": "/tiffolin/static/media/name.78fd07484804a40507d9.png",
+    "static/media/linkedin.jpg": "/tiffolin/static/media/linkedin.06e4c080c2f00389b16c.jpg",
+    "static/media/lin.png": "/tiffolin/static/media/lin.5c792f6a550832a225f7.png",
+    "index.html": "/tiffolin/index.html",
+    "main.4161023d.css.map": "/tiffolin/static/css/main.4161023d.css.map",
+    "main.e0eb6698.js.map": "/tiffolin/static/js/main.e0eb6698.js.map"
   },
   "entrypoints": [
     "static/css/main.4161023d.css",
-    "static/js/main.717e950c.js"
+    "static/js/main.e0eb6698.js"
   ]
 }
