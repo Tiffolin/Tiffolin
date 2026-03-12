@@ -3,8 +3,11 @@ import React from "react";
 /* ========= VIDEO DATA ========= */
 
 const youtubeVideos = [
-  "Y18WKrJFrvA",
+  "-q8NIm3Ycqo?si=BOPAhQh5bhh5_FHd",
   "KNK9yy9Mmoc?si=k7w8UbmFKxKwoNud",
+  "Y18WKrJFrvA",
+  "z_fg2rxBCMo?si=NCLqrDJDmVzn7c5o",
+ 
   // add more YouTube IDs here
 ];
 
